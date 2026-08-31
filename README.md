@@ -1,6 +1,6 @@
 # Football Props Cheat Sheet
 
-Cheat sheet de props de futebol no mesmo espírito do app de NBA: compara linhas das casas (The Odds API) com projeções a partir do histórico de cada time.
+Cheat sheet de props de futebol: compara linhas das casas (The Odds API) com projeções a partir do histórico de cada time.
 
 Mercados:
 
