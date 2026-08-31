@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit / segredos
+.streamlit/secrets.toml
+
+# Sistema / editor
+.vscode/
+.DS_Store
